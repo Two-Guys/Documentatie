@@ -1,0 +1,10 @@
+# Videostreaming platform voor scholen
+	- Voor Ritcs, LUCA School of Arts...
+	- Leerlingen kunnen hun videos voor projecten uploaden
+	- Voor welk vak
+	- In welk jaar
+	- Score op project meegeven
+	- Score op basis van sterren
+	- Reacties achterlaten
+	- ## Nadeel
+		- Heel grote database nodig (veel storage)

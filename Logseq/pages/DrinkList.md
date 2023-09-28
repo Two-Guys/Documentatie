@@ -5,3 +5,5 @@
 	- Opzoeken wat anderen ervan vinden
 	- Tierlist
 	- ...
+- Nadeel
+	- Een beetje saai concept

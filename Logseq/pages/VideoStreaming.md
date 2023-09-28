@@ -8,3 +8,5 @@
 	- Reacties achterlaten
 	- ## Nadeel
 		- Heel grote database nodig (veel storage)
+		- streaming issues moeilijk oplos baar
+		- zeer duur om te schalen

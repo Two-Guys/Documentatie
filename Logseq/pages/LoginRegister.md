@@ -1,0 +1,4 @@
+- Secure Login
+	- Mail & password
+	- Google Auth
+- 2+ rollen

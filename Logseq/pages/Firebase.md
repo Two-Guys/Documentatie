@@ -1,0 +1,3 @@
+- Via routing, fetchen we het profile van de artist via het artist ID
+- Bewerken van de artist
+-
